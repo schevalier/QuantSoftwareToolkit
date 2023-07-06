@@ -50,7 +50,7 @@ reportlab==2.5
 rhythmbox-ubuntuone==4.0.0
 scikit-learn==0.12.1
 scikits.statsmodels==0.3.1
-scipy==0.10.1
+scipy==1.10.0
 sessioninstaller==0.0.0
 simplejson==2.6.1
 six==1.1.0
