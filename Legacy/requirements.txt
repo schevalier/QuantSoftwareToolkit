@@ -26,7 +26,7 @@ lxml==2.3.5
 matplotlib==1.1.1
 nose==1.1.2
 numexpr==2.0.1
-numpy==1.6.2
+numpy==1.22.0
 oauth==1.0.1
 oneconf==0.2.9.1
 openpyxl==1.5.8
